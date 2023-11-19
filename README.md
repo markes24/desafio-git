@@ -1,2 +1,2 @@
-# desafio-git
+# treinamento git/giyhub
 github treinamento 
