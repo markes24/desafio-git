@@ -1,3 +1,4 @@
 # treinamento git/giyhub
 github treinamento 
-##[links uteis] (https://www.markdownguide.org/basic-syntax/)
+##links uteis
+(https://www.markdownguide.org/basic-syntax/)
