@@ -1,7 +1,7 @@
 # treinamento git/giyhub
 github treinamento 
 
-##links uteis
+## links uteis
 
 [sintaxe]
 (https://www.markdownguide.org/basic-syntax/)
